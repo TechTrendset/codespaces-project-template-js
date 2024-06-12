@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/purpleflow.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "purple background image";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am honored to be chosen as a Microsoft Learn Student Ambassador due to my passion for computer science education and dedication to inclusivity. Through my leadership, I led a team in promoting diversity and inclusion in computer science education, teaching students Python and Java. I witnessed the transformative power of inclusive education and now aspire to create an academic realm within the MLSA program that empowers students. Additionally, I actively engage in community events, prioritizing the needs of thalassemia patients and their families. With technical proficiency in Python and Java, I integrate technology into my studies and share my knowledge through graphic design tutorials. I am grateful for this opportunity and look forward to making a lasting impact as a Microsoft Learn Student Ambassador.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web Developer",
+  "AI enthusiast",
+  "Backend Developer",
+  "MERN STACK",
+  "React Native Mobile Application",
+  "Enterprenuer",
 ];
 
 /**
